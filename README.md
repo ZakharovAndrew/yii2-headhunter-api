@@ -7,3 +7,28 @@
 Yii2 REST API Client for Headhunter (HH.ru)
 
 Official API docs available [here](https://github.com/hhru/api).
+
+## Installation
+
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+
+Either run
+
+```
+$ composer require zakharov-andrew/yii2-settings
+```
+or add
+
+```
+"zakharov-andrew/yii2-settings": "*"
+```
+
+to the ```require``` section of your ```composer.json``` file.
+
+Subsequently, run
+
+```
+./yii migrate/up --migrationPath=@vendor/zakharov-andrew/yii2-hh-api/migrations
+```
+
+in order to create the settings table in your database.
