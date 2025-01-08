@@ -32,3 +32,7 @@ Subsequently, run
 ```
 
 in order to create the settings table in your database.
+
+## License
+
+**yii2-headhunter-api** it is available under a MIT License. Detailed information can be found in the `LICENSE.md`.
