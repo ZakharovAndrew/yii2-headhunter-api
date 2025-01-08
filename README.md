@@ -1,4 +1,4 @@
-# Yii2 HeadHunter API Client
+# Yii2 HeadHunter API Client (hh.ru)
 
 [![Latest Stable Version](https://poser.pugx.org/zakharov-andrew/yii2-headhunter-api/v/stable)](https://packagist.org/packages/zakharov-andrew/yii2-headhunter-api)
 [![License](https://poser.pugx.org/zakharov-andrew/yii2-headhunter-api/license)](https://packagist.org/packages/zakharov-andrew/yii2-headhunter-api)
