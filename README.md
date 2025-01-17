@@ -3,6 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/zakharov-andrew/yii2-headhunter-api/v/stable)](https://packagist.org/packages/zakharov-andrew/yii2-headhunter-api)
 [![License](https://poser.pugx.org/zakharov-andrew/yii2-headhunter-api/license)](https://packagist.org/packages/zakharov-andrew/yii2-headhunter-api)
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+![GitHub last commit](https://img.shields.io/github/last-commit/zakharov-andrew/yii2-headhunter-api)
 
 Yii2 REST API Client for Headhunter (HH.ru)
 
